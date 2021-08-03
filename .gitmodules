@@ -1,0 +1,27 @@
+[submodule "Eir.ApiBuilder"]
+	path = Eir.ApiBuilder
+	url = https://github.com/Gjoll/Eir.ApiBuilder.git
+[submodule "Eir.AutoMate"]
+	path = Eir.AutoMate
+	url = https://github.com/Gjoll/Eir.AutoMate.git
+[submodule "Eir.DevTools"]
+	path = Eir.DevTools
+	url = https://github.com/Gjoll/Eir.DevTools.git
+[submodule "Eir.FhirKhit"]
+	path = Eir.FhirKhit
+	url = https://github.com/Gjoll/Eir.FhirKhit.git
+[submodule "Eir.FlatCat"]
+	path = Eir.FlatCat
+	url = https://github.com/Gjoll/Eir.FlatCat.git
+[submodule "Eir.Gitomatic"]
+	path = Eir.Gitomatic
+	url = https://github.com/Gjoll/Eir.Gitomatic.git
+[submodule "Eir.IGBuilder"]
+	path = Eir.IGBuilder
+	url = https://github.com/Gjoll/Eir.IGBuilder.git
+[submodule "Eir.JavaDocParser"]
+	path = Eir.JavaDocParser
+	url = https://github.com/Gjoll/Eir.JavaDocParser.git
+[submodule "Eir.MFSH"]
+	path = Eir.MFSH
+	url = https://github.com/Gjoll/Eir.MFSH.git
