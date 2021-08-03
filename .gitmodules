@@ -25,3 +25,6 @@
 [submodule "Eir.MFSH"]
 	path = Eir.MFSH
 	url = https://github.com/Gjoll/Eir.MFSH.git
+[submodule "Eir.FGraph"]
+	path = Eir.FGraph
+	url = https://github.com/Gjoll/Eir.FGraph.git
