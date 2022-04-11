@@ -28,3 +28,6 @@
 [submodule "Eir.FGraph"]
 	path = Eir.FGraph
 	url = https://github.com/Gjoll/Eir.FGraph.git
+[submodule "VSReplaceReference"]
+	path = VSReplaceReference
+	url = https://github.com/Gjoll/VSReplaceReference.git
